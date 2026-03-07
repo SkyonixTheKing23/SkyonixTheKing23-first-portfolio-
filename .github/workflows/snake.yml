@@ -20,12 +20,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Copy SVG to main
         run: |
+          cp dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git config --global user.email "iamfrostytheking@gmail.com"
           git config --global user.name "Soulaiman"
-          git add dist/github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
           git commit -m "Update snake" || echo "Nothing to commit"
-          git push origin HEAD:output
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
