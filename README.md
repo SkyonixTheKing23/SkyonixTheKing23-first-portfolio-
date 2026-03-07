@@ -8,7 +8,7 @@
 
 # 🧑‍💻 About Me
 
-Hello 👋 I'm **Sky (Suleiman)**
+Hello 👋 I'm **Sky (Soulaiman)**
 
 🎓 Computer Science Student
 🏫 FSAC — Morocco
