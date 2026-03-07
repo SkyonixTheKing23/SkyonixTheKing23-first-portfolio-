@@ -1,32 +1,54 @@
-name: Generate Snake
+name: GitHub Snake Game
 
 on:
-  workflow_dispatch:
+  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
+
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout repo
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: SkyonixTheKing23
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          # GitHub username to generate the animation for
+          github_user_name: SkyonixTheKing
 
-      - name: Copy SVG to main
-        run: |
-          cp dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
-          git config --global user.email "iamfrostytheking@gmail.com"
-          git config --global user.name "Soulaiman"
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake" || echo "Nothing to commit"
-          git push origin main
+          # Define the output files and their configurations
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Deploy the generated files to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
+
+      # Optional: Set your Git identity for commits
+      - name: Set Git Identity
+        run: |
+          git config --global user.name "SkyonixTheKing"
+          git config --global user.email "Iamfrostytheking@gmail.com"
