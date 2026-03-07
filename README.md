@@ -50,10 +50,12 @@ Hello 👋 I'm **Soulaiman**
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 <br>
+
+![snake gif](https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect With Me
 
@@ -92,4 +94,3 @@ Hello 👋 I'm **Soulaiman**
 <img src="https://komarev.com/ghpvc/?username=SkyonixTheKing23&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>
 
-![snake gif](https://github.com/SkyonixTheKing23/SkyonixTheKing23/blob/output/github-contribution-grid-snake.svg)
