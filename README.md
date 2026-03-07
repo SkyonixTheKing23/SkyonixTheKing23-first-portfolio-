@@ -1,35 +1,36 @@
-<h1 align="center">🎮 SKYONIX | Pixel Developer</h1>
+<h1 align="center">💻 Soulaiman | Web Developer</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Software+Engineer;Creative+Pixel+Web+Builder;Entrepreneur+in+Progress" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Web+Developer;Creative+Web+Builder;Entrepreneur+in+Progress" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello 👋 I'm **Sky (Suleiman)**  
+Hello 👋 I'm **Soulaiman**  
 
 🎓 Computer Science Student — FSAC Morocco  
-⚡ Passionate about building **pixel-style web experiences**  
-🎮 Creating interactive and creative coding projects  
-💡 Goal: Become a top software engineer and digital entrepreneur  
+💻 Full-stack Web Developer with a passion for creating **clean, interactive, and creative web projects**  
+🎮 I also love pixel art and retro-inspired designs, which sometimes inspire my web experiments  
+
+**Mission:** Build impactful projects, master web technologies, and launch my own digital products.
 
 ---
 
 ## 🎯 Current Goals
 
-🚀 Master Software Engineering  
-🧠 Improve problem solving  
-💻 Build unique coding projects  
-🎮 Create creative pixel-style websites  
+🚀 Master modern web development  
+🧠 Improve problem solving and algorithms  
+💻 Build unique coding projects and websites  
+🎨 Combine creativity and functionality in web design  
 📈 Launch successful digital businesses  
 
 ---
 
 ## 🕹️ Featured Project
 
-🐍 **Snake Game** — retro arcade classic rebuilt with modern web tech  
+🐍 **Snake Game** — classic arcade recreated with modern web technologies  
 🔗 [Play Here](https://skyonixtheking23.github.io/Snake-Game/)
 
 ---
@@ -37,11 +38,11 @@ Hello 👋 I'm **Sky (Suleiman)**
 ## 🧠 Languages & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,nodejs,git,github,vscode" />
 </p>
 
-- Python / C / C++ / Java / JavaScript / HTML / CSS / React / Node.js  
-- Git / GitHub / VS Code / Game-style Web Design  
+- **Languages:** Python / C / C++ / Java / JavaScript / HTML / CSS / React / Node.js  
+- **Tools & Platforms:** Git / GitHub / VS Code / Web development / Some pixel-art experiments  
 
 ---
 
