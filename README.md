@@ -1,67 +1,71 @@
-<h1 align="center">🎮 Skyonix | Pixel Developer</h1>
+<h1 align="center">🎮 SKYONIX | Pixel Developer</h1>
 
 <p align="center">
-💻 Computer Science Student • 🚀 Future Software Engineer • 🎨 Creative Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Software+Engineer;Creative+Pixel+Web+Builder;Entrepreneur+in+Progress" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-Hello! I'm **Sky (Suleiman)** 👋  
+Hello 👋 I'm **Sky (Suleiman)**
 
-🎓 Computer Science Student at **FSAC Morocco**  
-⚡ Passionate about **Software Engineering & Creative Coding**  
-🎮 Building pixel-styled web experiences and interactive projects  
+🎓 Computer Science Student
+🏫 FSAC — Morocco
 
-I love turning **ideas into digital worlds** using code.
+I love building **creative digital worlds with code** and experimenting with **pixel-style web experiences**.
 
----
-
-## 🎯 Current Mission
-
-⚡ Improve my programming mastery  
-⚡ Build unique creative projects  
-⚡ Launch digital businesses  
-⚡ Become an elite developer  
+My mission is to become an **elite software engineer** and build powerful projects that combine **technology, creativity, and entrepreneurship**.
 
 ---
 
-## 🕹️ Featured Project
+# 🎯 Current Goals
+
+🚀 Master Software Engineering
+🧠 Improve problem solving
+💻 Build unique coding projects
+🎮 Create creative pixel-style websites
+📈 Launch successful digital businesses
+
+---
+
+# 🕹️ Featured Project
 
 🐍 **Snake Game**
 
+A retro arcade classic rebuilt with modern web technologies.
+
 🔗 https://skyonixtheking23.github.io/Snake-Game/
 
-Classic arcade game rebuilt with modern web technologies.
-
 ---
 
-## 🧠 Languages & Tools
+# 🧠 Languages & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,git,github,vscode,nodejs" />
 </p>
 
-Technologies I work with:
+Languages I use:
 
-- Python
-- C
-- C++
-- Java
-- JavaScript
-- HTML
-- CSS
-- React
-- Git
-- VS Code
-- Game-style Web Design
+• Python
+• C
+• C++
+• Java
+• JavaScript
+• HTML
+• CSS
+• React
+• Node.js
+
+Tools:
+
+• Git
+• GitHub
+• VS Code
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -73,7 +77,17 @@ Technologies I work with:
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SkyonixTheKing23&theme=tokyonight&border_radius=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -83,37 +97,37 @@ Technologies I work with:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/iamfrosty-the-king-878378301/
 
-📸 Instagram  
+📸 Instagram
 https://www.instagram.com/soulaiman.visuals/
 
-🌐 Portfolio  
+🌐 Portfolio
 https://skyonix-portfolio-version-2-0.netlify.app/
 
-📧 Email  
-iamfrostytheking@gmail.com
+📧 Email
+[iamfrostytheking@gmail.com](mailto:iamfrostytheking@gmail.com)
 
-💬 Discord  
-skyonixmaster123  
+💬 Discord
+skyonixmaster123
 
-👾 Community Server  
+👾 Community Server
 https://discord.gg/Dd7aUphX
 
 ---
 
-## 🛒 My Online Shop
+# 🛒 My Online Store
 
-🔥 Check out my merch store  
+🔥 Check my merch store
 
 https://manowearfushion.creator-spring.com/
 
 ---
 
-## ⚡ Fun Quote
+# ⚡ Quote I Live By
 
 > "Small consistent improvements create legendary results."
 
@@ -121,4 +135,8 @@ https://manowearfushion.creator-spring.com/
 
 <p align="center">
 ⚔️ Building the future one line of code at a time
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SkyonixTheKing23&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>
