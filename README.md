@@ -16,7 +16,7 @@ Hello 👋 I'm **Soulaiman**
 
 **Mission:** Build impactful projects, master web technologies, and launch my own digital products.
 
----
+<br>
 
 ## 🎯 Current Goals
 
@@ -24,16 +24,17 @@ Hello 👋 I'm **Soulaiman**
 🧠 Improve problem solving and algorithms  
 💻 Build unique coding projects and websites  
 🎨 Combine creativity and functionality in web design  
-📈 Launch successful digital businesses  
+📈 Launch successful digital businesses
 
----
+<br>
 
 ## 🕹️ Featured Project
 
 🐍 **Snake Game** — classic arcade recreated with modern web technologies  
+
 🔗 [Play Here](https://skyonixtheking23.github.io/Snake-Game/)
 
----
+<br>
 
 ## 🧠 Languages & Technologies
 
@@ -42,9 +43,9 @@ Hello 👋 I'm **Soulaiman**
 </p>
 
 - **Languages:** Python / C / C++ / Java / JavaScript / HTML / CSS / React / Node.js  
-- **Tools & Platforms:** Git / GitHub / VS Code / Web development / Some pixel-art experiments  
+- **Tools & Platforms:** Git / GitHub / VS Code / Web development / Some pixel-art experiments
 
----
+<br>
 
 ## 🐍 Contribution Snake
 
@@ -52,7 +53,7 @@ Hello 👋 I'm **Soulaiman**
 <img src="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg">
 </p>
 
----
+<br>
 
 ## 🌐 Connect With Me
 
@@ -77,7 +78,7 @@ Hello 👋 I'm **Soulaiman**
   </a>
 </p>
 
----
+<br>
 
 # ⚡ Quote I Live By
 
