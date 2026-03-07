@@ -6,132 +6,81 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-Hello 👋 I'm **Sky (Soulaiman)**
+Hello 👋 I'm **Sky (Suleiman)**  
 
-🎓 Computer Science Student
-🏫 FSAC — Morocco
-
-I love building **creative digital worlds with code** and experimenting with **pixel-style web experiences**.
-
-My mission is to become an **elite software engineer** and build powerful projects that combine **technology, creativity, and entrepreneurship**.
+🎓 Computer Science Student — FSAC Morocco  
+⚡ Passionate about building **pixel-style web experiences**  
+🎮 Creating interactive and creative coding projects  
+💡 Goal: Become a top software engineer and digital entrepreneur  
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Goals
 
-🚀 Master Software Engineering
-🧠 Improve problem solving
-💻 Build unique coding projects
-🎮 Create creative pixel-style websites
-📈 Launch successful digital businesses
-
----
-
-# 🕹️ Featured Project
-
-🐍 **Snake Game**
-
-A retro arcade classic rebuilt with modern web technologies.
-
-🔗 https://skyonixtheking23.github.io/Snake-Game/
+🚀 Master Software Engineering  
+🧠 Improve problem solving  
+💻 Build unique coding projects  
+🎮 Create creative pixel-style websites  
+📈 Launch successful digital businesses  
 
 ---
 
-# 🧠 Languages & Technologies
+## 🕹️ Featured Project
+
+🐍 **Snake Game** — retro arcade classic rebuilt with modern web tech  
+🔗 [Play Here](https://skyonixtheking23.github.io/Snake-Game/)
+
+---
+
+## 🧠 Languages & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,git,github,vscode,nodejs" />
 </p>
 
-Languages I use:
-
-• Python
-• C
-• C++
-• Java
-• JavaScript
-• HTML
-• CSS
-• React
-• Node.js
-
-Tools:
-
-• Git
-• GitHub
-• VS Code
+- Python / C / C++ / Java / JavaScript / HTML / CSS / React / Node.js  
+- Git / GitHub / VS Code / Game-style Web Design  
 
 ---
 
-# 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SkyonixTheKing23&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyonixTheKing23&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SkyonixTheKing23&theme=tokyonight&border_radius=10"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg">
-
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn
-https://www.linkedin.com/in/iamfrosty-the-king-878378301/
-
-📸 Instagram
-https://www.instagram.com/soulaiman.visuals/
-
-🌐 Portfolio
-https://skyonix-portfolio-version-2-0.netlify.app/
-
-📧 Email
-[iamfrostytheking@gmail.com](mailto:iamfrostytheking@gmail.com)
-
-💬 Discord
-skyonixmaster123
-
-👾 Community Server
-https://discord.gg/Dd7aUphX
-
----
-
-# 🛒 My Online Store
-
-🔥 Check my merch store
-
-https://manowearfushion.creator-spring.com/
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamfrosty-the-king-878378301/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/soulaiman.visuals/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://skyonix-portfolio-version-2-0.netlify.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00C0FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  </a>
+  <a href="mailto:iamfrostytheking@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/Dd7aUphX" target="_blank">
+    <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://manowearfushion.creator-spring.com/" target="_blank">
+    <img alt="Shop" src="https://img.shields.io/badge/My%20Shop-FF9900?style=for-the-badge&logo=shopify&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 # ⚡ Quote I Live By
 
 > "Small consistent improvements create legendary results."
-
----
 
 <p align="center">
 ⚔️ Building the future one line of code at a time
