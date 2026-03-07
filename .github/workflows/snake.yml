@@ -1,16 +1,17 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *" # runs every 12 hours
-  workflow_dispatch:       # allows manual trigger
+    - cron: "0 */12 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -19,10 +20,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Push to output branch
+        run: |
+          git config --global user.email "iamfrostytheking@gmail.com"
+          git config --global user.name "Soulaiman"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake" || echo "Nothing to commit"
+          git push origin HEAD:output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
