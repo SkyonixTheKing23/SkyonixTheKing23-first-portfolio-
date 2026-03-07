@@ -91,3 +91,5 @@ Hello 👋 I'm **Soulaiman**
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SkyonixTheKing23&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>
+
+![snake gif](https://github.com/SkyonixTheKing23/SkyonixTheKing23/blob/output/github-contribution-grid-snake.svg)
