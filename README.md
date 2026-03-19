@@ -18,6 +18,16 @@ Hello 👋 I'm **Soulaiman**
 
 <br>
 
+## ◈ CONTRIBUTION SNAKE 🐍 ◈
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/SkyonixTheKing23/SkyonixTheKing23/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 ## 🎯 Current Goals
 
 🚀 Master modern web development  
